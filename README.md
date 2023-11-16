@@ -2,13 +2,11 @@
 
 ## Enunciado
 Desenvolver os protótipos da interface do sistema de acordo com os diagramas desenvolvidos na primeira fase do projeto.
-<hr>
 
 ## Conteúdo
 - [Diagramas de Caso de Uso](#diagramas-de-caso-de-uso)
 - [Diagramas de Classes](#diagrama-de-casses)
 - [Protótipos](#protótipos)
-<hr>
 
 ## Diagrama de Casos de Uso
 Para a segunda entrega os diagramas de caso de uso passaram por uma revisão seguindo as recomendações de correção.
@@ -26,13 +24,11 @@ Para a segunda entrega os diagramas de caso de uso passaram por uma revisão seg
 
 #### Pessoa Jurídica e Fornecedor
 ![Casos de uso para Pessoa Física e Professor](./casos-de-uso/casos-de-uso-pessoa-juridica.png)
-<hr>
 
 ## Diagrama de Classes
 Desenvolvido para a primeira entrega do projeto:
 
 ![Diagrama de Classes](./diagrama-de-classes/diagrama-de-casses.png)
-<hr>
 
 ## Protótipos
 Geral:
@@ -61,7 +57,6 @@ Recebe o acesso de estudantes e alunos da instituição.
 
 #### Página Inicial Aluno Autenticado
 ![Protótipo - Página Inicial para aluno autenticado](./prototipos/aluno/autenticado.png)
-<hr>
 
 ### Protótipo Pessoa Física e Professor
 Recebe o acesso de funcionários em geral e professores da instituição.
