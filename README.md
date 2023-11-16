@@ -4,8 +4,8 @@
 Desenvolver os protótipos da interface do sistema de acordo com os diagramas desenvolvidos na primeira fase do projeto.
 
 ## Conteúdo
-- [Diagramas de Caso de Uso](#diagramas-de-caso-de-uso)
-- [Diagramas de Classes](#diagrama-de-casses)
+- [Diagramas de Caso de Uso](#diagrama-de-caso-de-uso)
+- [Diagramas de Classes](#diagrama-de-classes)
 - [Protótipos](#protótipos)
 
 ## Diagrama de Casos de Uso
